@@ -1,17 +1,17 @@
 HEAD /wp
 HEAD /cgi
-HEAD /test
+HEAD /tes
 HEAD /adm
 HEAD /php
 HEAD /log
-HEAD /_vti
+HEAD /_vt
 GET /wp
 GET /cgi
-GET /test
+GET /tes
 GET /adm
 GET /php
 GET /log
-GET /_vti
+GET /_vt
 htaccess
 htpasswd
 w3af

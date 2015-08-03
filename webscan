@@ -1,0 +1,35 @@
+HEAD /wp
+HEAD /cgi
+HEAD /test
+HEAD /adm
+HEAD /php
+HEAD /log
+HEAD /_vti
+GET /wp
+GET /cgi
+GET /test
+GET /adm
+GET /php
+GET /log
+GET /_vti
+htaccess
+htpasswd
+w3af
+fuzz
+FUZZ
+dirbuster
+nikto
+sqlmap
+fimap
+nessus
+Nessus
+whatweb
+jbrofuzz
+libwhisker
+webshag
+acunetix
+Acunetix
+openvas
+Openvas
+OpenVAS
+ckeditor

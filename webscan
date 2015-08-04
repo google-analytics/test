@@ -1,3 +1,14 @@
+" : Lynx"
+" : PycURL"
+" : Wget"
+" : curl"
+"Acunetix"
+"AhrefsBot"
+"Baiduspider"
+"Crowsnest"
+"DNS-Digger"
+"Ezooms"
+"FUZZ"
 "GET /_vt"
 "GET /adm"
 "GET /cgi"
@@ -5,6 +16,8 @@
 "GET /php"
 "GET /tes"
 "GET /wp"
+"Google Web"
+"Googlebot"
 "HEAD /_vt"
 "HEAD /adm"
 "HEAD /cgi"
@@ -12,24 +25,56 @@
 "HEAD /php"
 "HEAD /tes"
 "HEAD /wp"
-Acunetix
-FUZZ
-Nessus
-OpenVAS
-Openvas
-acunetix
-ckeditor
-dirbuster
-fimap
-fuzz
-htaccess
-htpasswd
-jbrofuzz
-libwhisker
-nessus
-nikto
-openvas
-sqlmap
-w3af
-webshag
-whatweb
+"Hatena"
+"JS-Kit"
+"MJ12bot"
+"Mediapartners"
+"MetaURI"
+"Nessus"
+"NetSeer"
+"OpenVAS"
+"Openvas"
+"PaperLiBot"
+"PostRank"
+"Purebot"
+"R6_CommentReader"
+"R6_FeedFetcher"
+"ScoutJet"
+"SemrushBot"
+"Showyoubot"
+"SiteBot"
+"SocialSpider"
+"Sogou web"
+"Spinn3r"
+"Tweetmeme"
+"UnwindFetch"
+"Web Spider"
+"Web spider"
+"Yahoo!"
+"YandexBot"
+"acunetix"
+"bingbot"
+"bitlybot"
+"ckeditor"
+"dirbuster"
+"facebookexternal"
+"fimap"
+"fuzz"
+"htaccess"
+"htpasswd"
+"ia_archiver"
+"jbrofuzz"
+"libwhisker"
+"mniexplorer_"
+"msnbot"
+"nessus"
+"nikto"
+"openvas"
+"pirst; MSI"
+"psbot/"
+"radian6"
+"sqlmap"
+"w3af"
+"web spider"
+"webshag"
+"whatweb"

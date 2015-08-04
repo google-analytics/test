@@ -1,35 +1,35 @@
-HEAD /wp
-HEAD /cgi
-HEAD /tes
-HEAD /adm
-HEAD /php
-HEAD /log
-HEAD /_vt
-GET /wp
-GET /cgi
-GET /tes
-GET /adm
-GET /php
-GET /log
-GET /_vt
+"GET /_vt"
+"GET /adm"
+"GET /cgi"
+"GET /log"
+"GET /php"
+"GET /tes"
+"GET /wp"
+"HEAD /_vt"
+"HEAD /adm"
+"HEAD /cgi"
+"HEAD /log"
+"HEAD /php"
+"HEAD /tes"
+"HEAD /wp"
+Acunetix
+FUZZ
+Nessus
+OpenVAS
+Openvas
+acunetix
+ckeditor
+dirbuster
+fimap
+fuzz
 htaccess
 htpasswd
-w3af
-fuzz
-FUZZ
-dirbuster
-nikto
-sqlmap
-fimap
-nessus
-Nessus
-whatweb
 jbrofuzz
 libwhisker
-webshag
-acunetix
-Acunetix
+nessus
+nikto
 openvas
-Openvas
-OpenVAS
-ckeditor
+sqlmap
+w3af
+webshag
+whatweb
